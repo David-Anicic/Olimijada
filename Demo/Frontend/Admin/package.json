@@ -28,7 +28,7 @@
     "@ngx-translate/http-loader": "^3.0.1",
     "@swimlane/ngx-charts": "^7.3.0",
     "angular-font-awesome": "^3.1.2",
-    "codemirror": "^5.36.0",
+    "codemirror": "^5.58.2",
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
     "fullcalendar": "^3.6.1",
